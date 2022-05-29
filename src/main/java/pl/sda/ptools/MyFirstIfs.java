@@ -12,9 +12,9 @@ public class MyFirstIfs {
         int b = scanner.nextInt();
 
         if (a > b) {
-            System.out.println("A is greater than B");
+            System.out.println("A is  than B");
         } else if (a < b) {
-            System.out.println("A is lesser than B");
+            System.out.println("A is  than B");
         } else {
             System.out.println("A is equal to B");
         }
