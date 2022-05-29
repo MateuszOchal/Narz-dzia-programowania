@@ -11,11 +11,11 @@ public class aawaa {
 
         int numberB = scanner.nextInt();
         if (numberA > numberB) {
-            printMessageWithNewLine("a is  than b");
+            printMessageWithNewLine("a n b");
         } else if (numberA == numberB) {
-            printMessageWithNewLine("number Bo number A");
+            printMessageWithNewLine("nu");
         } else {
-            printMessageWithNewLine("number  than number A");
+            printMessageWithNewLine("nur A");
         }
 
     }
