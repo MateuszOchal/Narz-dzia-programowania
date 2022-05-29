@@ -6,13 +6,13 @@ public class NumbersEquality {
     public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
     System.out.print("Please enter  number A: ");
-    int numberA = scanner.nextInt();
+    int A = scanner.nextInt();
     System.out.print("Please enter  number B: ");
 
-    int numberB = scanner.nextInt();
-    if (numberA > numberB) {
+    int B = scanner.nextInt();
+    if (A > B) {
         System.out.println("number A is bigger than number B");
-    } else if (numberA == numberB) {
+    } else if (A == B) {
         System.out.println("number B is equal to number A");
     } else {
         System.out.println("number B is bigger than number A");
